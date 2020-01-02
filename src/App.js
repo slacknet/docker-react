@@ -16,11 +16,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.gchq.gov.uk/section/careers/working-for-gchq"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn About this
         </a>
       </header>
     </div>
