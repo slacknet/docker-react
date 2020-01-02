@@ -16,7 +16,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://gchq.gov.uk/section/careers/working-for-gchq"
+          href="https://gchq.gov.uk"
           target="_blank"
           rel="noopener noreferrer"
         >
