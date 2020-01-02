@@ -8,7 +8,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there!!! I was change oin the AWS
+        Hello BINK team. This is the automated test where the following tech are involved:
+          <li>Github repo, where I oushed all the app code</li>
+          <li>A docker file</li>
+          <li>Travis CI - there is a RUN script to run the script</li>
+          <li>And a deploy instruction in travis.yml to deploy in AWS Beanstalk</li>
         </p>
         <a
           className="App-link"
