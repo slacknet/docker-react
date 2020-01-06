@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="bink.png" className="App-logo" alt="logo" />
+        <img src="logo512.png" className="App-logo" alt="logo" />
         <p>
         Hello BINK team. This is the automated test where the following tech are involved:
         <hr></hr>
